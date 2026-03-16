@@ -1,3 +1,5 @@
 # Dipendenze
 
-```pip install requests Pillow pyproj lxml```
+```
+pip install requests Pillow pyproj lxml
+```
